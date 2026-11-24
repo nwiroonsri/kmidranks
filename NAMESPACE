@@ -1,0 +1,5 @@
+export(Acc_label)
+export(K_midranks)
+export(elbow_rk)
+importFrom(stats,median)
+importFrom(utils,flush.console)
