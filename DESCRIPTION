@@ -1,0 +1,15 @@
+Package: Kmidranks
+Type: Package
+Title: Rank-Based Clustering with K-Midranks
+Version: 0.1.0
+Authors@R: c(
+    person("Nathakhun", "Wiroonsri", email = "nathakhun.wir@kmutt.ac.th",
+           role = c("aut", "cre")),
+    person("Larry", "Goldstein", role = "aut"))
+Description: Partitions multivariate observations using feature-wise ranks
+    and multiple random starts. Provides Manhattan, squared Euclidean, and
+    maximum-distance variants, an elbow-ratio criterion for comparing cluster
+    counts, and clustering accuracy under optimal one-to-one label matching.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Imports: clue, graphics, stats, utils
