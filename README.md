@@ -73,3 +73,7 @@ A large ratio indicates that adding a cluster yielded a larger improvement
 than adding the following one. Inspect the objective curve and convergence
 flags alongside the ranking. See `?elbow_rk` for the treatment of flat or
 increasing objectives.
+
+## Reference
+
+Nathakhun Wiroonsri and Larry Goldstein (2026). *K-Midranks: A robust clustering algorithm for heavy-tailed data with applications to spectroscopy and finance*. Manuscript submitted to arXiv.
