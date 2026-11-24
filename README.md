@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Kmidranks ranking clusters hex logo.png" width="200" />
+</p>
+
 # Kmidranks
 
 K-midranks clusters observations using the ranks of their features. This is
