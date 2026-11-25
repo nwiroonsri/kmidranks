@@ -80,4 +80,4 @@ increasing objectives.
 
 ## Reference
 
-Larry Goldstein and Nathakhun Wiroonsri (2026). *K-Midranks: A robust clustering algorithm for heavy-tailed data with applications to spectroscopy and finance*. arXiv:2611.30953.
+Larry Goldstein and Nathakhun Wiroonsri (2026). *K-Midranks: A robust clustering algorithm for heavy-tailed data with applications to spectroscopy and finance*. [arXiv:2611.30953](https://arxiv.org/abs/2611.30953).
